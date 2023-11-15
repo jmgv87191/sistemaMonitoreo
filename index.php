@@ -391,7 +391,7 @@
 
 
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmV2LOxK9PRDmArNDnsHvNWgdcRh5nl8k&callback=initMap&v=weekly"
+        src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&v=weekly"
         defer></script>
 
     <!-- Optional JavaScript -->
